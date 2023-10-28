@@ -1,0 +1,6 @@
+Recipe_FR = {
+	Recipe_Make_Commando_Hood = "Fabriquer un capot de Commando",
+	Recipe_Make_Commando_ToolBox_Lid = "Fabriquer une Fermeture de Boîte à outils",
+	Recipe_Make_Commando_Viewport = "Fabriquer une Vitre",
+	Recipe_Make_Commando_Viewport_1 = "Fabriquer une Vitre",
+}
