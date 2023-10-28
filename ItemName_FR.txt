@@ -1,0 +1,11 @@
+ItemName_FR = {
+	ItemName_Base.FrontLeftV100Door2 = "Commando: Porte gauche",
+	ItemName_Base.FrontRightV100Door2 = "Commando: Porte droite",
+	ItemName_Base.RearV100Door2 = "Commando: Porte arrière",
+	ItemName_Base.V100EngineDoor2 = "Commando: Capot",
+	ItemName_Base.V100Tire2 = "Pneu Anti-crevaison",
+	ItemName_Base.V100Toolbox2 = "V100: Boîte à outils",
+	ItemName_Base.V100ToolboxLid2 = "Commando: Fermeture de Boîte à outils",
+	ItemName_Base.V100Window2 = "Commando: Vitre",
+	ItemName_USMIL.Seat0 = "Siège de véhicule militaire",
+}
