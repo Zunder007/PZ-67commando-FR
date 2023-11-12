@@ -1,4 +1,4 @@
-IG_UI_EN = {
+IG_UI_FR = {
 	IGUI_VehicleName67commando = "'67 Cadillac Gage Commando"
 	IGUI_VehicleName67commandoPolice = "'67 Cadillac Gage Police"
 	IGUI_VehicleName67commandoT50 = "'67 Cadillac Gage Commando T50"
@@ -6,4 +6,6 @@ IG_UI_EN = {
 
 	IGUI_VehiclePartV100Toolbox = "Boîte à outils",
 	IGUI_VehiclePartV100ToolboxLid = "Fermeture de Boîte à outils",
+
+	IGUI_CraftCategory_V100 = "'67 Cadillac Gage Commando",
 }
